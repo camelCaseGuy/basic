@@ -1,0 +1,4 @@
+10 cls
+20 PRINT STICK(0) STICK(1)
+30 GOTO 20
+
